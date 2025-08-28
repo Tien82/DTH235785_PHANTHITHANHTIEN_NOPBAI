@@ -29,16 +29,6 @@ def add(a,b):
     return result
 
 
-
-#module1.py
-question = "what is the meaning of Life, the Universe, and Everything?"
-answer = 42
-
-#module2.py
-
-question = "what is your quest?"
-answer = "To seek the holy grail."
-
 import module1
 import module2
 print(module1.question)
